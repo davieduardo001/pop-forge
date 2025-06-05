@@ -2,7 +2,7 @@
 
 **pop-forge** is a personal automation toolkit for setting up my development workspace quickly and consistently. It centralizes all my automation scripts into a single entry point and handles everything from cloning repositories, installing essential tools, downloading apps, and preparing the environment I work in — all with minimal manual effort.
 
----
+---  
 
 ## 🧠 Motivation
 
